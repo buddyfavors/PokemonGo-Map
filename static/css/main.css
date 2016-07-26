@@ -1886,6 +1886,10 @@ body {
     #nav {
       padding: 2.5em 1.75em; } }
 
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+  max-height: 200px;
+  overflow: auto; }
+
 /* Banner */
 #banner {
   padding: 8em 0 6em 0;
